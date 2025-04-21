@@ -9,3 +9,13 @@
 - Git e github
 
 - Configurando um mbiente dev windows: https://curso.dev/web/ambiente-de-desenvolvimento-windows
+
+## Dia 03
+
+Configurando o projeto
+
+```
+nvm install lts/hydrogen
+```
+
+- `nvm install` roda o .nvmrc do projeto
