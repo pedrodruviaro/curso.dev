@@ -19,3 +19,7 @@ nvm install lts/hydrogen
 ```
 
 - `nvm install` roda o .nvmrc do projeto
+
+## Dia 04
+
+- Protocolos: acordo/combinado de regras
