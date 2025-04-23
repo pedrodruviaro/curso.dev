@@ -23,3 +23,7 @@ nvm install lts/hydrogen
 ## Dia 04
 
 - Protocolos: acordo/combinado de regras
+
+## Dia 05
+
+- Git
