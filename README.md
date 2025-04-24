@@ -27,3 +27,7 @@ nvm install lts/hydrogen
 ## Dia 05
 
 - Git
+
+## Dia 06
+
+- Git, git e mais git
