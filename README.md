@@ -31,3 +31,8 @@ nvm install lts/hydrogen
 ## Dia 06
 
 - Git, git e mais git
+
+## Dia 07
+
+- Client e server
+- Hospedagem e Deploy
