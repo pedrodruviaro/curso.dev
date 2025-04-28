@@ -36,3 +36,7 @@ nvm install lts/hydrogen
 
 - Client e server
 - Hospedagem e Deploy
+
+## Dia 08
+
+- Programação "orgânica" vs "impressora 3D"
