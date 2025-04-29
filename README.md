@@ -40,3 +40,14 @@ nvm install lts/hydrogen
 ## Dia 08
 
 - Programação "orgânica" vs "impressora 3D"
+
+## Dia 09
+
+- O "segredo" para organização de tarefas
+- [Milestones](https://github.com/pedrodruviaro/curso.dev/milestones) e [Issues](https://github.com/pedrodruviaro/curso.dev/issues)
+
+```
+> Início
+> Progresso
+> Conclusão
+```
