@@ -55,3 +55,4 @@ nvm install lts/hydrogen
 ## Dia 10
 
 - configurando `.editorconfig` e instalando a extensão
+- configurando o prettier
