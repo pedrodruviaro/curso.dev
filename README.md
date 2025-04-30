@@ -51,3 +51,7 @@ nvm install lts/hydrogen
 > Progresso
 > Conclusão
 ```
+
+## Dia 10
+
+- configurando `.editorconfig` e instalando a extensão
