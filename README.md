@@ -56,3 +56,7 @@ nvm install lts/hydrogen
 
 - configurando `.editorconfig` e instalando a extensão
 - configurando o prettier
+
+## Dia 11
+
+- Teoria sobre DNS e internet
