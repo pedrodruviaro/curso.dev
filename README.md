@@ -60,3 +60,9 @@ nvm install lts/hydrogen
 ## Dia 11
 
 - Teoria sobre DNS e internet
+
+## Dia 12
+
+- Registrando um domínio novo `.com.br`
+- Alterando servidores DNS
+- usando `dig`
