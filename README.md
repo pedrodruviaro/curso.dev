@@ -66,3 +66,12 @@ nvm install lts/hydrogen
 - Registrando um domínio novo `.com.br`
 - Alterando servidores DNS
 - usando `dig`
+
+## Dia 13
+
+- criação da página "Em construção 🚧"
+- encerrando milestone 0
+- Status Pages dos serviços
+    - Vercel: https://www.vercel-status.com/
+    - AWS: https://health.aws.amazon.com/health/status
+    - GitHub: https://www.githubstatus.com/
