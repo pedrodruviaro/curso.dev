@@ -82,3 +82,9 @@ nvm install lts/hydrogen
 - Fundação
 - Arquitetura de arquivos e pastas
 - PoC e MVC
+
+## Dia 15
+
+- Testes com Jest
+- Instalando Jest na versão 29.6.2
+- TDD
