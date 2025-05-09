@@ -88,3 +88,10 @@ nvm install lts/hydrogen
 - Testes com Jest
 - Instalando Jest na versão 29.6.2
 - TDD
+
+## Dia 16
+
+- Testes de unidade _vs_ integração _vs_ E2E
+- API
+- HTTP e curl
+- _curl https://76.76.21.21 --insecure --verbose --header 'Host: fintab.com.br'_
