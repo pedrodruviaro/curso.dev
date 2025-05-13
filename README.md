@@ -95,3 +95,19 @@ nvm install lts/hydrogen
 - API
 - HTTP e curl
 - _curl https://76.76.21.21 --insecure --verbose --header 'Host: fintab.com.br'_
+
+## Dia 17
+
+- DBMS - Database Management System
+  - PostgreSQL
+- Docker
+
+  - Subindo um banco de dados local
+  - criando o `compose.yaml`
+    - `docker compose up` cria a imagem com base no compose
+    - `docker compose up --detached` ou `-d` cria a imagem com base no compose e roda em background
+    - `docker compose up -d --force-recreate` recria a imagem
+    - movendo o `compose.yaml` para uma pasta separada: `docker compose -f infra/compose.yaml up`
+  - `dockerfile` -> imagem (binário) -> container
+
+- [Docker hub](https://hub.docker.com)
