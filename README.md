@@ -111,3 +111,9 @@ nvm install lts/hydrogen
   - `dockerfile` -> imagem (binário) -> container
 
 - [Docker hub](https://hub.docker.com)
+
+## Dia 18
+
+- Inslalando o pacote `pg`
+- Fazendo o jest olhar tudo (não só commits) com `"test:watch": "jest --watchAll"`
+- Injetando variáveis de ambiente (fyi `MY_ENV=teste npm run dev`, 'teste' fica disponível ao processo)
