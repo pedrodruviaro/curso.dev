@@ -117,3 +117,5 @@ nvm install lts/hydrogen
 - Inslalando o pacote `pg`
 - Fazendo o jest olhar tudo (não só commits) com `"test:watch": "jest --watchAll"`
 - Injetando variáveis de ambiente (fyi `MY_ENV=teste npm run dev`, 'teste' fica disponível ao processo)
+
+## Dia 19
