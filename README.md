@@ -119,3 +119,9 @@ nvm install lts/hydrogen
 - Injetando variáveis de ambiente (fyi `MY_ENV=teste npm run dev`, 'teste' fica disponível ao processo)
 
 ## Dia 19
+
+- Adicionando `.env.development`
+- Configurando `jsconfig.json` (mesmo que `tsconfig.json`)
+- Criando scripts para subir serviços (docker) e servidor web (dev)
+
+## Dia 20
