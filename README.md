@@ -125,3 +125,38 @@ nvm install lts/hydrogen
 - Criando scripts para subir serviços (docker) e servidor web (dev)
 
 ## Dia 20
+
+-
+
+## Dia 21
+
+- investigando logs na vercel
+- Banco de dados (grátis) com [`Neon`](https://neon.com/)
+
+  - 190h compute hours
+
+- Banco de dados (pago) com [`DigitalOcean`](https://www.digitalocean.com/)
+
+- Nota extra: não usamos connection string, e sim, dados separados
+- Nota extra: podemos usar um banco SQL direto do `supabase`
+
+```
+Criar conta
+Criar projeto:
+Nome do projeto
+Senha do banco
+Região
+Clicar em Connect na barra superior
+Pegar os parâmetros de Transaction pooler
+host: aws-0-us-east-1.pooler.supabase.com
+port: 6543
+database: postgres
+user: postgres.xxxxx
+Adicionar esses parâmetros e a senha criada no arquivo .env.development
+Com isso já deve conseguir acessar api/v1/status
+```
+
+## Dia 22
+
+- Tralhando com migrations
+- Arquivos de migração e alterações & framework de migração
